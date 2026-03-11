@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "優しいあの子",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-03-11T10:32:26.426074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "優しいあの子",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_優しいあの子_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_優しいあの子_スピッツ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_優しいあの子_スピッツ.txt"
+    }
+  ]
+}
